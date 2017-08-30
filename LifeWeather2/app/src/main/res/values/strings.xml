@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeWeather2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="besselTime">目前%s健康系数</string>
+    <string name="friendAverageStep"> </string>
+    <string name="averageStep">平均%s/天</string>
+    <string name="champion">%s</string>
+    <string name="day">%s日</string>
+    <string name="ranking_left">正常</string>
+    <string name="ranking_right">值</string>
+    <string name="nextSevenDay">最近7天</string>
+    <string name="check">查看其他参数</string>
+</resources>

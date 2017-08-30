@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="掌上商城"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/night_model"
+        android:title="我的设备"
+        app:showAsAction="never"/>
+
+
+</menu>
